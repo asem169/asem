@@ -1009,7 +1009,7 @@ header .content-text{
 /*iphon xr*/
 
 /*iphon 14 pro*/
-@media (max-width: 390px) {
+@media (max-width: 393px) {
     #home #logo{
         font-size: 12px;
         font-weight: 700;
